@@ -1,4 +1,5 @@
-const statement = require ('./index');
+// const statement = require ('./index');
+import statement from './index';
 
 const invoices = [
   {
@@ -36,7 +37,7 @@ const plays = {
 };
 
 test ('test', () => {
-  expected = `Statement for BigCo
+  const expected = `Statement for BigCo
   Hamlet: $650.00 (55 seats)
   As You Like It: $580.00 (35 seats)
   Othello: $500.00 (40 seats)

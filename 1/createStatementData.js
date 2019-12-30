@@ -1,4 +1,4 @@
-function createStatementData (invoice, plays) {
+export default function createStatementData (invoice, plays) {
   const result = {};
   result.customer = invoice.customer;
   result.performances = invoice.performances.map (enrichPerformance);
@@ -64,5 +64,3 @@ function createStatementData (invoice, plays) {
     return result;
   }
 }
-
-module.exports = createStatementData;

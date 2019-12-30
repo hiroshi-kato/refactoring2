@@ -1,6 +1,6 @@
-const createStatementData = require ('./createStatementData');
+import createStatementData from './createStatementData';
 
-function statement (invoice, plays) {
+export default function statement (invoice, plays) {
   return renderPlainText (createStatementData (invoice, plays));
 }
 
@@ -22,5 +22,3 @@ function renderPlainText (data) {
     }).format (aNumber / 100);
   }
 }
-
-module.exports = statement;
