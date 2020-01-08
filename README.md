@@ -1,0 +1,3 @@
+[「リファクタリング(第 2 版): 既存のコードを安全に改善する 」(OBJECT TECHNOLOGY SERIES)](https://www.amazon.co.jp/%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0-%E7%AC%AC2%E7%89%88-%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%89%E5%85%A8%E3%81%AB%E6%94%B9%E5%96%84%E3%81%99%E3%82%8B-OBJECT-TECHNOLOGY/dp/4274224546/ref=pd_sbs_14_t_0/355-6427010-5520209?_encoding=UTF8&pd_rd_i=4274224546&pd_rd_r=b86ba78e-dd4c-4d2c-a5a8-852c57acc462&pd_rd_w=T66yL&pd_rd_wg=px3Vw&pf_rd_p=ca22fd73-0f1e-4b39-9917-c84a20b3f3a8&pf_rd_r=RAAPPP03MWDA1RXJMBEN&psc=1&refRID=RAAPPP03MWDA1RXJMBEN)の写経レポジトリです。
+
+開発環境は自作です。参考にしていただけたら幸いです。
